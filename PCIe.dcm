@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Bus_PCIexpress_x16_164_Position
+D PCI bus connector for universal 5V/3.3V cards
+K PCI 5V 3.3V 3V3
+F http://pinouts.ru/Slots/PCI_pinout.shtml
+$ENDCMP
+#
+$CMP Bus_PCIexpress_x1_36_Position
+D PCI bus connector for universal 5V/3.3V cards
+K PCI 5V 3.3V 3V3
+F http://pinouts.ru/Slots/PCI_pinout.shtml
+$ENDCMP
+#
+$CMP Bus_PCIexpress_x4_64_Position
+D PCI bus connector for universal 5V/3.3V cards
+K PCI 5V 3.3V 3V3
+F http://pinouts.ru/Slots/PCI_pinout.shtml
+$ENDCMP
+#
+$CMP Bus_PCIexpress_x8_98_Position
+D PCI bus connector for universal 5V/3.3V cards
+K PCI 5V 3.3V 3V3
+F http://pinouts.ru/Slots/PCI_pinout.shtml
+$ENDCMP
+#
+$CMP Bus_mechaken_PCIexpress_x16_164_Position
+D PCI bus connector for universal 5V/3.3V cards
+K PCI 5V 3.3V 3V3
+F http://pinouts.ru/Slots/PCI_pinout.shtml
+$ENDCMP
+#
+#End Doc Library
