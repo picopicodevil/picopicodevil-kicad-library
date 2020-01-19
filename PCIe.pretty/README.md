@@ -35,17 +35,17 @@
 
 ## コンポーネントとフットプリント一覧
 
-このレポジトリーには、次のコンポーネントとフットプリントが含まれています。
+このレポジトリーには、次のコンポーネントとフットプリントが含まれています。（フットプリントがないものは公式のライブラリに入っています）
 
 ### コンポーネントと対応するフットプリント
 
-| component                                | footprint                                |
-| ---------------------------------------- | ---------------------------------------- |
-| Bus_PCIexpress_x1_36_Position            | Bus_PCIexpress_x1_36_Position            |
-| Bus_PCIexpress_x4_64_Position            | Bus_PCIexpress_x4_64_Position            |
-| Bus_PCIexpress_x8_98_Position            | Bus_PCIexpress_x8_98_Position            |
-| Bus_PCIexpress_x16_164_Position          | Bus_PCIexpress_x16_164_Position          |
-| Bus_mechaken_PCIexpress_x16_164_Position | Bus_mechaken_PCIexpress_x16_164_Position |
+| component                                | footprint                                                    |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| Bus_PCIexpress_x1_36_Position            |                                                              |
+| Bus_PCIexpress_x4_64_Position            |                                                              |
+| Bus_PCIexpress_x8_98_Position            |                                                              |
+| Bus_PCIexpress_x16_164_Position          |                                                              |
+| Bus_mechaken_PCIexpress_x16_164_Position | Bus_mechaken_PCIexpress_x16_164_Position(エッジコネクタ用) & Bus_mechaken_PCIexpress_x16_164_Position(スロット用) |
 
 ## ピン配置
 
