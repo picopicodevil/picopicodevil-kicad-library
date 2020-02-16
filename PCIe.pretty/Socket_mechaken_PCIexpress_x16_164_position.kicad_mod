@@ -1,4 +1,4 @@
-(module Socket_mechaken_PCIexpress_x16_164_position (layer F.Cu) (tedit 0)
+(module Socket_mechaken_PCIexpress_x16_164_position (layer F.Cu) (tedit 5E48FD74)
   (descr 10018783-10113TLF)
   (tags Connector)
   (fp_text reference J** (at 39.74 -0.097) (layer F.SilkS)
@@ -184,4 +184,9 @@
   (pad B10 thru_hole circle (at 84.85 1.25) (size 1.28 1.28) (drill 0.78) (layers *.Cu *.Mask))
   (pad A10 thru_hole circle (at 85.85 -3.25) (size 1.28 1.28) (drill 0.78) (layers *.Cu *.Mask))
   (pad B10 thru_hole circle (at 85.85 3.25) (size 1.28 1.28) (drill 0.78) (layers *.Cu *.Mask))
+  (model C:/Users/yuto/OneDrive/Documents/KiCAD/picopicodevil-kicad-library/PCIe.pretty/87715-9306.stp
+    (offset (xyz 56.1 -15.6 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
