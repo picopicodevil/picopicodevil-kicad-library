@@ -1,4 +1,4 @@
-(module XT60PW_Reversible (layer F.Cu) (tedit 5DE90247)
+(module XT60PW_Reversible (layer F.Cu) (tedit 5E499DA8)
   (descr XT60)
   (tags Connector)
   (fp_text reference J** (at 0 -6) (layer F.SilkS)
@@ -28,4 +28,9 @@
   (pad 4 thru_hole oval (at 6.75 -6) (size 1.5 2.8) (drill oval 1 2.2) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at -6.75 6) (size 1.5 2.8) (drill oval 1 2.2) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 6.75 6) (size 1.5 2.8) (drill oval 1 2.2) (layers *.Cu *.Mask))
+  (model "C:/Users/yuto/OneDrive/Documents/KiCAD/picopicodevil-kicad-library/XT60.pretty/XT60PW-M --3DModel-STEP-1.STEP"
+    (offset (xyz 0 -15.3 4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
